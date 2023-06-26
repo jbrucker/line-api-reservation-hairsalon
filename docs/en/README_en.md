@@ -6,7 +6,7 @@ The source code environment introduced on this page uses AWS.
 
 *Documentation and other content are only available in Japanese.
 
-※ [日本語ドキュメントはこちらからご確認いただけます。](../../README.md)
+※ [日本語ドキュメントはこちらからご確認いただけます](README_jp.md)
 
 # Libraries
 
