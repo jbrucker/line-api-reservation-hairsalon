@@ -1,3 +1,13 @@
+This is the fork of the LINE sample application for reservations at a hair salon.
+
+- LINE's repo: <https://github.com/line/line-api-use-case-reservation-hairsalon/>
+- Description of the app with Class and System Sequence Diagrams: <https://lineapiusecase.com/en/oss.html>
+
+The application uses LIFF (Line Interface Framework) and Line Messaging API.
+
+The rest of this file is from LINE's reposition.  I will be translating it (with help from translate.google.com) into English.
+
+
 # Overview
 [LINE API Use Caseサイト](https://lineapiusecase.com/ja/top.html)で提供している[ヘアサロン予約](https://lineapiusecase.com/ja/usecase/reservation.html)のデモアプリケーションソースコードとなります。    
 今回紹介している手順を参考にすると、LINE APIを活用したヘアサロン予約アプリケーションを開発することが可能です。    
